@@ -1,0 +1,270 @@
+[
+  {
+    "id": "m1",
+    "name": "Gondolkodó Kalapok (Six Thinking Hats)",
+    "summary": "Edward de Bono módszere: a diákok 6 különböző nézőpontból vizsgálnak egy témát. Fejleszti a kritikus gondolkodást és az empátiát.",
+    "category": "Projektmunka",
+    "subjects": ["Humán", "Általános"],
+    "timeEstimate": "15-25 perc",
+    "groupSize": "4-6 fő",
+    "energy": "Közepes",
+    "steps": [
+      "Ismertessd a 6 kalapot és a hozzájuk tartozó gondolkodási módot (fehér = tények, piros = érzelmek, fekete = kockázatok, sárga = előnyök, zöld = kreatív ötletek, kék = szervezés).",
+      "Oszd be a csoportokat és adj mindegyiknek egy 'kalapszínt' kártyán.",
+      "Adj egy konkrét problémát vagy döntési helyzetet (pl. 'Bevezessünk-e iskolai telefontilalmat?').",
+      "Minden csoport a saját kalapszíne szerint érveljen 5 percig.",
+      "Rotáljátok a kalapokat, hogy mindenki kipróbáljon legalább 2-3 nézőpontot.",
+      "Közös megbeszélés: mi volt a legnehezebb/legmeglepőbb nézőpont?"
+    ],
+    "tools": ["Színes kártyák vagy papírkoronák", "Tábla/projektor a nézőpontok összegzéséhez"],
+    "psychologyLink": "p2",
+    "proTips": [
+      "A piros kalapnál (érzelmek) hangsúlyozd, hogy nincs rossz válasz – itt az érzés számít, nem a logika.",
+      "Kezdd a fehér kalappal (tények), hogy mindenki közös alapról induljon."
+    ],
+    "commonMistakes": [
+      "Ne hagyd, hogy egy csoport túl sokáig ragadjon le egy nézőpontnál – a rotáció az ereje a módszernek.",
+      "Ne kritizáld a zöld kalapnál (kreativitás) felmerülő 'vad' ötleteket, mert az elfojtja a bátorságot."
+    ]
+  },
+  {
+    "id": "m2",
+    "name": "Think-Pair-Share (Gondolkodj-Párosodj-Oszd meg)",
+    "summary": "Egyszerű, de rendkívül hatékony kooperatív technika: a diákok egyénileg gondolkodnak, majd párban megvitatják és az osztállyal megosztják.",
+    "category": "Általános",
+    "subjects": ["Humán", "Reál", "Általános"],
+    "timeEstimate": "5-10 perc",
+    "groupSize": "2 fő (páros)",
+    "energy": "Alacsony",
+    "steps": [
+      "Tegyél fel egy nyitott kérdést az osztálynak (pl. 'Miért fontos a víz körforgása?').",
+      "THINK: Adj 1-2 perc csendes gondolkodási időt – mindenki egyedül jegyzetel.",
+      "PAIR: A szomszéddal párban megbeszélik a gondolataikat (2-3 perc).",
+      "SHARE: Néhány pár megosztja a közös gondolatát az egész osztállyal."
+    ],
+    "tools": ["Nincs szükség eszközre (opcionálisan: jegyzetfüzet)"],
+    "psychologyLink": "p1",
+    "proTips": [
+      "A 'Think' fázisban ne engedd, hogy azonnal beszélgessenek – a csendes feldolgozás kulcsfontosságú.",
+      "Használd rendszeresen órakezdéskor 'bemelegítőként' az előző órai anyag felidézésére."
+    ],
+    "commonMistakes": [
+      "Ne ugorj át a 'Think' fázist időhiány miatt – épp ez az, ami minőségi különbséget hoz.",
+      "Ne mindig ugyanazokat a párokat kérdezd a 'Share' részben – véletlenszerűen válassz."
+    ]
+  },
+  {
+    "id": "m3",
+    "name": "Exit Ticket (Kilépőjegy)",
+    "summary": "Az óra utolsó 3-5 percében a diákok röviden leírják, mit tanultak, mi volt nehéz, vagy mi maradt kérdés. Azonnali visszajelzés a tanárnak.",
+    "category": "Levezetés",
+    "subjects": ["Humán", "Reál", "Művészet/Készség", "Általános"],
+    "timeEstimate": "3-5 perc",
+    "groupSize": "Egyéni",
+    "energy": "Alacsony",
+    "steps": [
+      "Az óra utolsó 5 percében oszd ki a kis cetliket (vagy használj digitális eszközt).",
+      "Kérd meg a diákokat, hogy válaszoljanak 1-2 kérdésre: 'Mi volt a mai óra legfontosabb gondolata?' és/vagy 'Mi maradt kérdés benned?'",
+      "Gyűjtsd össze a cetliket, ahogy kimennek.",
+      "Nézd át a válaszokat és a következő óra elején reagálj a felmerült kérdésekre."
+    ],
+    "tools": ["Kis papírcetlik vagy Post-it lapok", "Opcionálisan: Google Forms / Mentimeter"],
+    "psychologyLink": "p4",
+    "proTips": [
+      "Változtasd a kérdéseket hetente, hogy ne legyen monoton (pl. 'Egy szóban: milyen volt a mai óra?').",
+      "Használd a válaszokat a következő óra tervezéséhez – a diákok érezni fogják, hogy a véleményük számít."
+    ],
+    "commonMistakes": [
+      "Ne értékeld osztályzattal az Exit Ticket-et – a lényeg az őszinte visszajelzés, nem a teljesítmény.",
+      "Ne hagyd ki a következő órai visszajelzést – ha nem reagálsz, a diákok abbahagyják az őszinte válaszadást."
+    ]
+  },
+  {
+    "id": "m4",
+    "name": "Jégtörő: Két Igazság, Egy Hazugság",
+    "summary": "Minden résztvevő mond két igaz és egy hamis állítást magáról – a többiek kitalálják, melyik a hazugság. Kiváló csoportépítő és hangulatteremtő.",
+    "category": "Jégtörő",
+    "subjects": ["Általános"],
+    "timeEstimate": "10-15 perc",
+    "groupSize": "8-30 fő",
+    "energy": "Magas",
+    "steps": [
+      "Kérd meg a diákokat, hogy gondoljanak ki 3 állítást magukról: 2 igaz és 1 hamis.",
+      "Adj 2-3 perc gondolkodási időt (opcionálisan leírhatják).",
+      "Sorban mindenki elmondja a 3 állítást – a többiek szavaznak, melyik a hazugság.",
+      "Az illető felfedi az igazságot, és röviden mesél az igaz állítások hátteréről.",
+      "Zárd le egy közös reflexióval: 'Mi lepett meg a legjobban?'"
+    ],
+    "tools": ["Nincs szükség eszközre"],
+    "psychologyLink": "p1",
+    "proTips": [
+      "Kezdd magaddal (tanárként), hogy a diákok lássák: te is bevállalós vagy – ez csökkenti a gátat.",
+      "Kisebb csoportoknál (8-10 fő) mindenki sorra kerülhet; nagyobb csoportnál válassz önkénteseket."
+    ],
+    "commonMistakes": [
+      "Ne engedd, hogy bárkit kinevetéssel büntessenek – a cél a kötődés, nem a kínos pillanatok.",
+      "Ne nyújtsd el – ha 30 fős az osztály, válassz ki 6-8 önkéntest, ne csináld végig mindenkivel."
+    ]
+  },
+  {
+    "id": "m5",
+    "name": "Galéria Séta (Gallery Walk)",
+    "summary": "A diákok kis csoportokban posztereket/plakátokat készítenek, majd körbejárják egymás munkáit és visszajelzést hagynak. Mozgás + tanulás egyszerre.",
+    "category": "Projektmunka",
+    "subjects": ["Humán", "Reál", "Művészet/Készség"],
+    "timeEstimate": "20-35 perc",
+    "groupSize": "3-5 fő",
+    "energy": "Közepes",
+    "steps": [
+      "Oszd be a csoportokat (3-5 fő) és adj mindegyiknek egy altémát a tárgyalt anyagból.",
+      "Minden csoport kap egy nagy ívet (flipchart papír) és filctollakat – 10-15 perc az alkotásra.",
+      "A kész posztereket ragasszátok ki a terem különböző pontjaira.",
+      "A csoportok körbejárják a 'galériát' és Post-it lapokra írnak visszajelzést/kérdést.",
+      "Visszatérés a saját poszterre: olvassák el a kapott visszajelzéseket és reagáljanak."
+    ],
+    "tools": ["Flipchart papír vagy nagy ívek", "Filctollak, Post-it lapok", "Ragasztószalag a kiragasztáshoz"],
+    "psychologyLink": "p2",
+    "proTips": [
+      "Adj struktúrát a visszajelzésnek: 'Egy dolog, ami tetszett + Egy kérdés, ami felmerült'.",
+      "Háttérzenét tegyél a séta közben – lazítja a hangulatot és természetesebb mozgást eredményez."
+    ],
+    "commonMistakes": [
+      "Ne hagyd, hogy a csoportok csak a saját poszterjüket 'védjék' – a cél a nyitott kíváncsiság.",
+      "Ne felejtsd el az időkeretet – a poszterkészítés könnyen elszalad, a séta és reflexió is fontos."
+    ]
+  },
+  {
+    "id": "m6",
+    "name": "Forgószínpad (Round Robin Brainstorming)",
+    "summary": "Csoportos ötletbörze, ahol minden tag sorban hozzátesz egy ötletet. Demokratikus, mindenki szóhoz jut, és épít az előzőre.",
+    "category": "Projektmunka",
+    "subjects": ["Humán", "Reál", "Általános"],
+    "timeEstimate": "10-15 perc",
+    "groupSize": "4-6 fő",
+    "energy": "Közepes",
+    "steps": [
+      "Ismertessd a témát/problémát, amire ötleteket vársz.",
+      "Minden csoport kap egy lapot – a lapon körbejár, és mindenki hozzáír EGY ötletet.",
+      "Szabály: nem szabad kritizálni mások ötletét, de lehet rá építeni.",
+      "3-4 kört menjenek végig (kb. 8-10 perc).",
+      "Közösen kiválasztják a TOP 3 ötletet és bemutatják az osztálynak."
+    ],
+    "tools": ["Egy nagy lap csoportonként", "Tollak/filcek"],
+    "psychologyLink": "p4",
+    "proTips": [
+      "Ha valaki 'beragad', engedjétek, hogy passzoljon és a következő kör elején próbálja újra.",
+      "A végén szavazzatok a legjobb ötletre – a 'tulajdonos' kapjon dicséretet."
+    ],
+    "commonMistakes": [
+      "Ne engedd, hogy egy domináns diák átvegye az irányítást – a körforgás éppen ezt előzi meg.",
+      "Ne várd el, hogy minden ötlet zseniális legyen – a mennyiség szüli a minőséget."
+    ]
+  },
+  {
+    "id": "m7",
+    "name": "Reflexiós Napló (Tanulási Napló)",
+    "summary": "A diákok rendszeresen rövid bejegyzéseket írnak arról, mit tanultak, hogyan érzik magukat és milyen kérdéseik vannak. A metakogníció fejlesztésének királya.",
+    "category": "Levezetés",
+    "subjects": ["Humán", "Reál", "Művészet/Készség", "Általános"],
+    "timeEstimate": "5-8 perc",
+    "groupSize": "Egyéni",
+    "energy": "Alacsony",
+    "steps": [
+      "Adj ki egy 'prompt'-ot az óra végén (pl. 'Ma azt tanultam, hogy...', 'Még kérdés bennem...', 'Ezt fogom másképp csinálni...').",
+      "A diákok 3-5 percben írnak a füzetükbe/naplójukba.",
+      "Opcionálisan: néhányan önkéntesen megosztják a bejegyzésüket.",
+      "Hetente egyszer nézd át a naplókat (nem osztályzod, csak olvasod és reagálsz)."
+    ],
+    "tools": ["Füzet vagy dedikált napló", "Opcionálisan: digitális napló (Google Docs)"],
+    "psychologyLink": "p2",
+    "proTips": [
+      "Változtasd a promptokat, hogy ne legyen unalmas: rajzos válasz, emoji-összefoglaló, '3 szavas óra-összegzés'.",
+      "Írj rövid, személyes visszajelzést a naplóba – a diákok IMÁDNI fogják, hogy a tanár olvassa."
+    ],
+    "commonMistakes": [
+      "Ne osztályozd a naplót – elveszíted az őszinteséget.",
+      "Ne hagyd abba 2 hét után – a módszer ereje a rendszerességben van."
+    ]
+  },
+  {
+    "id": "m8",
+    "name": "Szerepcsere (Tanár egy napra)",
+    "summary": "A diákok kiscsoportokban felkészülnek és egy témarészletet ők 'tanítanak' az osztálytársaiknak. Mély megértés és prezentációs készség fejlesztése.",
+    "category": "Projektmunka",
+    "subjects": ["Humán", "Reál", "Általános"],
+    "timeEstimate": "25-40 perc",
+    "groupSize": "3-4 fő",
+    "energy": "Magas",
+    "steps": [
+      "Oszd szét a tananyagot 4-5 altémára és rendelj mindegyikhez egy csoportot.",
+      "A csoportok kapjanak 10-15 perc felkészülési időt (anyaggyűjtés, vázlat, prezentáció tervezése).",
+      "Minden csoport 5-7 percben 'megtanítja' a saját részét az osztálynak.",
+      "Az 'osztály' (a többi csoport) kérdéseket tehet fel a végén.",
+      "Záró reflexió: 'Mi volt a legnehezebb a tanításban?' – empátia fejlesztés a tanári szerep iránt."
+    ],
+    "tools": ["Tankönyv/források az adott témához", "Tábla/projektor a prezentációkhoz", "Opcionálisan: kis handout a 'tanított' anyagról"],
+    "psychologyLink": "p1",
+    "proTips": [
+      "Adj 'mentori' szerepet magadnak: ne avatkozz be, de ha elakadnak, segítsd őket kérdésekkel.",
+      "A legjobb 'diáktanárt' jutalmazd valami szimbolikával (pl. 'Aranykréta' díj)."
+    ],
+    "commonMistakes": [
+      "Ne várd el tökéletes tanári teljesítményt – a cél a tanulási folyamat, nem a hibátlan előadás.",
+      "Ne hagyd ki a záró reflexiót – az a legértékesebb pillanat, ahol megértik, milyen nehéz tanítani."
+    ]
+  },
+  {
+    "id": "m9",
+    "name": "Hangulat-hőmérő (Mood Meter)",
+    "summary": "Az óra elején a diákok anonim vagy nyílt módon jelzik a hangulatukat. Segít a tanárnak a csoportdinamika felmérésében és az empátia erősítésében.",
+    "category": "Jégtörő",
+    "subjects": ["Általános"],
+    "timeEstimate": "2-3 perc",
+    "groupSize": "Teljes osztály",
+    "energy": "Alacsony",
+    "steps": [
+      "Készíts egy egyszerű skálát a táblára (1-5, emoji-k, vagy színek: piros-sárga-zöld).",
+      "Az óra elején kérd meg a diákokat, hogy jelezzék a hangulatukat (kézfeltartás, cetli, digitális szavazás).",
+      "Röviden reagálj: 'Látom, hogy sokan sárgán vannak – tartsunk egy gyors energizálót?'",
+      "Az óra végén opcionálisan ismételd meg – lássák a változást."
+    ],
+    "tools": ["Tábla + filctoll", "Opcionálisan: Mentimeter vagy színes kártyák"],
+    "psychologyLink": "p3",
+    "proTips": [
+      "Ne elemezd túl a hangulatokat – a lényeg, hogy a diákok érezzék: törődsz velük.",
+      "Ha rendszeresen használod, a diákok megtanulják felismerni és szavakba önteni a saját érzéseiket."
+    ],
+    "commonMistakes": [
+      "Ne kényszerítsd az anonim jelzést nyíltba – aki nem akarja, ne kelljen megindokolnia.",
+      "Ne hagyd figyelmen kívül a negatív jelzéseket – ha valaki következetesen 'piros', beszélj vele négyszemközt."
+    ]
+  },
+  {
+    "id": "m10",
+    "name": "Konfliktus Négyzet (4 Sarok Vita)",
+    "summary": "A terem 4 sarkába 4 álláspont kerül – a diákok fizikailag odamennek, amelyikkel egyetértenek, és megvédik a véleményüket. Mozgás + vita egyszerre.",
+    "category": "Konfliktuskezelés",
+    "subjects": ["Humán", "Általános"],
+    "timeEstimate": "15-20 perc",
+    "groupSize": "Teljes osztály",
+    "energy": "Magas",
+    "steps": [
+      "Ragassz 4 feliratot a terem 4 sarkába: 'Teljesen egyetértek', 'Inkább igen', 'Inkább nem', 'Egyáltalán nem értek egyet'.",
+      "Olvass fel egy vitaindító állítást (pl. 'A házi feladat felesleges').",
+      "A diákok fizikailag odamennek ahhoz a sarokhoz, amelyik a véleményüket tükrözi.",
+      "Minden sarok kap 2 percet, hogy közösen megfogalmazzák a fő érveiket.",
+      "A sarkok egymásnak válaszolnak – moderálj, de ne foglalj állást.",
+      "Az utolsó körben megengedheted a 'sarokváltást': ha valaki meggyőzött, szabad átmenni."
+    ],
+    "tools": ["4 felirat (A4 lap nagybetűkkel)", "Ragasztószalag"],
+    "psychologyLink": "p4",
+    "proTips": [
+      "Válassz olyan állításokat, amelyeknél nincs egyértelmű 'jó válasz' – a vita minősége fontosabb, mint a végeredmény.",
+      "A sarokváltás pillanata a legértékesebb: kérdezd meg, mi győzte meg az illetőt."
+    ],
+    "commonMistakes": [
+      "Ne hagyd, hogy személyes támadássá váljon – a véleményt vitatjuk, nem az embert.",
+      "Ne álld az egyik sarokba tanárként – maradj semleges moderátor."
+    ]
+  }
+]

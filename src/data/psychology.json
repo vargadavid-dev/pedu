@@ -1,0 +1,48 @@
+[
+  {
+    "id": "p1",
+    "name": "Pygmalion-effektus (Önbeteljesítő Jóslat)",
+    "summary": "Amit a tanár elvár a diáktól, az önbeteljesítő jóslattá válik. A pozitív elvárások kimutathatóan jobb teljesítményt eredményeznek.",
+    "description": "Robert Rosenthal és Lenore Jacobson 1968-as kísérlete bebizonyította, hogy a tanári elvárások drámaian befolyásolják a diákok teljesítményét. Amikor a tanárok azt hitték, hogy bizonyos diákok 'intellektuális felvirágzás' előtt állnak (valójában véletlenszerűen kiválasztott gyerekek voltak), azok a diákok valóban jobban teljesítettek az év végére. A hatás fordítva is működik: az alacsony elvárások 'Gólem-effektust' okoznak – a diák lefelé igazodik.",
+    "examples": [
+      "Amikor a tanár azt mondja: 'Tudom, hogy meg tudod oldani, csak gondolkodj rajta!' – az szárnyakat ad.",
+      "Az ültetési rend is üzenet: a hátsó sorokba 'száműzött' diákok érezhetik, hogy lemondtál róluk.",
+      "Dicsérd az ERŐFESZÍTÉST, ne a tehetséget: 'Nagyon jól dolgoztál ezen!' vs. 'Okos vagy!'"
+    ]
+  },
+  {
+    "id": "p2",
+    "name": "Growth Mindset (Fejlődésfókuszú Szemlélet)",
+    "summary": "Carol Dweck elmélete: aki hisz abban, hogy a képességei fejleszthetőek (growth mindset), az kitartóbb és sikeresebb, mint aki veleszületett adottságnak tekinti azokat (fixed mindset).",
+    "description": "A Stanford Egyetem pszichológusa, Carol Dweck évtizedes kutatásai bizonyítják, hogy az emberi intelligencia és képességek nem fixáltak. A 'growth mindset' (növekedési szemlélet) lényege, hogy a diákok megtanulják: a hiba nem kudarc, hanem tanulási lehetőség. A tanár feladata, hogy a tanteremben ezt a kultúrát építse – a hibák normalizálása, a folyamat dicsérete, és a 'még nem' szó bevezetése ('Nem tudod MÉG, de megtanulod!').",
+    "examples": [
+      "Fixed mindset mondat: 'Nem vagyok matekos.' → Growth mindset: 'A matekban még fejlődöm.'",
+      "A hibákat ünnepeld: 'Ki talált ma egy izgalmas hibát, amiből tanultunk?' – ez átalakítja a tantermi kultúrát.",
+      "Mutass példákat híres emberekről, akik sokszor kudarcot vallottak (Edison, J.K. Rowling, Michael Jordan)."
+    ]
+  },
+  {
+    "id": "p3",
+    "name": "Kiégés Felismerése és Megelőzése (Burnout Prevention)",
+    "summary": "A tanári kiégés 3 fő dimenzója: érzelmi kimerültség, deperszonalizáció és a személyes hatékonyság csökkenése. A megelőzés rendszerszemléletű megközelítést igényel.",
+    "description": "Christina Maslach kutatásai alapján a burnout nem egyéni gyengeség, hanem rendszerszintű probléma. A tanárok különösen veszélyeztetettek, mert munkájuk érzelmileg intenzív, a társadalmi elvárások magasak, és az adminisztratív terhek növekednek. A megelőzés három szinten történhet: egyéni (határok meghúzása, énidő), közösségi (kollegiális támogatás, mentorálás) és rendszerszintű (reális terhelés, elismerés).",
+    "examples": [
+      "Tünet: Ha vasárnap este szorongás fog el a hétfőtől – ez nem normális, hanem korai figyelmeztetés.",
+      "Micro-recovery: 5 perc tudatos légzés a szünetben, vagy egy rövid séta a folyosón óráik között.",
+      "Kollegiális támasz: Heti 15 perces 'venting session' egy megbízható kollégával – nem megoldás, csak meghallgatás.",
+      "Határok: Nem kell minden szülői emailre azonnal válaszolni – határozz meg 'válaszidő ablakokat'."
+    ]
+  },
+  {
+    "id": "p4",
+    "name": "Pozitív Megerősítés (Positive Reinforcement)",
+    "summary": "B.F. Skinner operáns kondicionálásán alapuló technika: a kívánt viselkedés jutalmazása hatékonyabb, mint a nem kívánt büntetése. Az iskola kontextusában a dicséret, az elismerés és a konkrét visszajelzés a leghatásosabb eszközök.",
+    "description": "A pozitív megerősítés lényege, hogy a kívánt viselkedést KÖZVETLENÜL követő pozitív következmény növeli annak valószínűségét, hogy a viselkedés megismétlődik. A tanteremben ez nem üres dicséretet jelent ('Ügyes vagy!'), hanem SPECIFIKUS, AZONNALI és ŐSZINTE visszajelzést ('Nagyon jól strukturáltad az érvelésed – a példáid különösen meggyőzőek voltak!'). A módszer ereje a rendszerességben és a specifikusságban rejlik.",
+    "examples": [
+      "Specifikus dicséret: 'Tetszik, ahogy segítettél a társadnak – ez igazi csapatjáték!' (nem: 'Ügyes voltál.').",
+      "Nonverbális megerősítés: mosoly, bólintás, hüvelykujj fel – ezek is 'jutalmak' a diák agyában.",
+      "Szociális megerősítés: 'Hadd olvassam fel az osztálynak, mert ez a bekezdésed nagyon jó!' – vigyázz, csak ha a diák beleegyezik.",
+      "Token rendszer: Csoportpontozás (nem egyéni!) – a közös cél erősebb motivátor, mint az egyéni verseny."
+    ]
+  }
+]

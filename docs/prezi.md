@@ -1,0 +1,1 @@
+A tantestületnek bemutatót tartok az Antigravity-ből és azt a folyamatot szeretném bemutatni, ahogy a gondolatból megszületik a kész termék, kérek ehhez egy webes prezentációt, amiben röviden bemutatot mi az a vibe kóding, mi az az Antigravity, és hogy milyen folyamaton megyünk végig. Ötletelés, finomítás tesztelés stb.  
